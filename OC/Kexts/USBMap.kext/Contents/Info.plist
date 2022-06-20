@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacBookPro15,1-XHC</key>
+		<key>MacBookPro16,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -50,8 +50,6 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
-						<key>Comment</key>
-						<string>USB3 RIGHT UP</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -61,8 +59,6 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>Comment</key>
-						<string>USB3 RIGHT DOWN</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -72,8 +68,6 @@
 					</dict>
 					<key>HS03</key>
 					<dict>
-						<key>Comment</key>
-						<string>USB3 LEFT MIDDLE</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -88,7 +82,7 @@
 						BAAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS05</key>
 					<dict>
@@ -97,7 +91,7 @@
 						BQAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS06</key>
 					<dict>
@@ -106,12 +100,12 @@
 						BgAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS07</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						BwAAAA==
@@ -124,7 +118,7 @@
 						CAAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS09</key>
 					<dict>
@@ -133,7 +127,7 @@
 						CQAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS10</key>
 					<dict>
@@ -141,10 +135,8 @@
 						<data>
 						CgAAAA==
 						</data>
-						<key>Comment</key>
-						<string>USB LED KEYBOARD</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS11</key>
 					<dict>
@@ -153,7 +145,7 @@
 						CwAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS12</key>
 					<dict>
@@ -162,12 +154,12 @@
 						DAAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS13</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						DQAAAA==
@@ -176,7 +168,7 @@
 					<key>HS14</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						DgAAAA==
@@ -189,7 +181,7 @@
 						DwAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS16</key>
 					<dict>
@@ -275,7 +267,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro15,1</string>
+			<string>MacBookPro16,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
