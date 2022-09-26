@@ -6,4 +6,3 @@ HDMI is finally working! You may need to turn OFF/ON your monitor to be able to 
 Note : I didn't mapped USB-C and jack ports yet, you will have to do the mapping again.
 
 I fixed sleep by setting hibernatemode at 25 :
-`sudo pmset -a hibernatemode 25`
